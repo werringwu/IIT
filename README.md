@@ -1,2 +1,2 @@
-# IIT
-IIT Loss for Low Light Image Enhancement
+# SCA-IIT
+SCA-IIT Loss for Low Light Image Enhancement
